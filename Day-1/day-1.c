@@ -3,6 +3,12 @@
 int main()
 {
 
+
+
+
+    printf("Manvendrasinh Jadeja");
+    printf("18");
+    printf("VVP");
     printf("--------\n");
     printf("|\t|\n");
     printf("R\t|\n");

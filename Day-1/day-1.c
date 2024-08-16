@@ -2,10 +2,6 @@
 
 int main()
 {
-
-
-
-
     printf("Manvendrasinh Jadeja");
     printf("18");
     printf("VVP");
@@ -37,12 +33,6 @@ int main()
     printf("*   *           * *\n");
     printf("*  *             * \n");
     printf("* \n");
-
-
-    
-
-
-    
 
 
 }

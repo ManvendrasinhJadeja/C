@@ -16,7 +16,7 @@ int main()
     
     formula = a/3 +b/3 +c/3;
     
-    if(a<100 && b<100 && c<100 )
+    if(a<100 && b<100 && c<100 && a>0 && b>0 && c>0 )
     {
         printf("The Average of marks is %f",formula);
     }

@@ -1,3 +1,4 @@
+// to print even number of terms
 #include <stdio.h>
 
 int main(){

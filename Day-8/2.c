@@ -1,3 +1,4 @@
+// to print number in decending order from 10
 #include<stdio.h>
 
 int main()
